@@ -16,7 +16,7 @@ Configure and test basic firewall rules to allow or block traffic on Windows.
 ## Files Included
 - **windows_firewall_report.pdf** — Detailed report with steps, commands, and screenshot.
 - **Screenshot 2025-08-08 140114.png** — Proof of Telnet block test.
-- **FirewallRules_Inbound.txt** — Exported inbound rules list (if available).
+- **FirewallRules_Inbound.txt** — Exported inbound rules list.
 
 ## Summary
 This task demonstrates how Windows Firewall filters traffic based on custom rules and how to test these rules effectively.
