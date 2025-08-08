@@ -1,4 +1,4 @@
-# windows-firewall-task
+# Windows-firewall-task
 A step-by-step configuration and testing of custom firewall rules on Windows, including blocking Telnet (port 23) and documenting the process.
 
 
